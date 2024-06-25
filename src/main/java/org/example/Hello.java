@@ -9,8 +9,4 @@ public class Hello {
     void hello() {
         System.out.println("Hello");
     }
-
-    void world() {
-        System.out.println("world");
-    }
 }
