@@ -9,4 +9,8 @@ public class Hello {
     void hello() {
         System.out.println("Hello");
     }
+
+    void func() {
+        System.out.println("Func");
+    }
 }
