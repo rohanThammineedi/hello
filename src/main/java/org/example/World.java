@@ -9,4 +9,8 @@ public class World {
     void hello() {
         System.out.println("Hello");
     }
+
+    void world() {
+        System.out.println("World");
+    }
 }
